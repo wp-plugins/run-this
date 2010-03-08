@@ -3,7 +3,7 @@ Tags: code, snippet, sample, execution, program
 Contributors: manu
 Requires at least: 2.9
 Tested up to: 2.9
-Stable tag: 0.1
+Stable tag: 0.2
 
 == Description ==
 
