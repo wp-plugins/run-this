@@ -7,10 +7,10 @@ Stable tag: 0.1
 
 == Description ==
 
-This plugin lets you execute code snippets you post in your blog. You simply add a class "run-this" and a lang attribute to the <pre> tag surrounding the code. 
-The lang attribute should have one of the following values : 
+This plugin lets you execute code snippets you post in your blog. 
 
-ada, assembler, awk, bash, bc, brainf**k, c, c#, c++, c99, clips, clojure, cobol, clisp, d, erlang, forth, fortran, go, haskell, icon, intercal, java, rhino, javascript, lua, nemerle, nice, ocaml, pascal, perl, php, pike, prolog, python, python3, r, ruby, scala, scheme, smalltalk, tcl, unlambda, vbasic, whitespace
+Simply add a class "run-this" and a lang attribute to the PRE tag surrounding the code. 
+The lang attribute should have one of the following values : ada, assembler, awk, bash, bc, brainf**k, c, c#, c++, c99, clips, clojure, cobol, clisp, d, erlang, forth, fortran, go, haskell, icon, intercal, java, rhino, javascript, lua, nemerle, nice, ocaml, pascal, perl, php, pike, prolog, python, python3, r, ruby, scala, scheme, smalltalk, tcl, unlambda, vbasic, whitespace
 
 The code is sent over to Ideone (http://ideone.com/) to run; results (output, time and language implementation details) are displayed on your blog, in a table underneath the code. 
 
