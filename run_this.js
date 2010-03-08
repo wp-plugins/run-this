@@ -85,7 +85,7 @@ function run_this(button, lang, b64_encoded){
   spinner_elt.show();
 
   // query the code execution
-  flproxy.open("POST","http://run-this-test.appspot.com/runthis");
+  flproxy.open("POST","http://run-this.appspot.com/runthis");
   flproxy.send(data);
 
 }
