@@ -1,4 +1,4 @@
-=== Run This ===
+=== Run This! ===
 Tags: code, snippet, sample, execution, program
 Contributors: manu
 Requires at least: 2.9
@@ -7,7 +7,7 @@ Stable tag: 0.1
 
 == Description ==
 
-This plugin lets you execute code snippets you post in your blog. 
+This plugin lets your readers run snippets of code directly from your blog.
 
 Simply add a class "run-this" and a lang attribute to the PRE tag surrounding the code. 
 The lang attribute should have one of the following values : ada, assembler, awk, bash, bc, brainf**k, c, c#, c++, c99, clips, clojure, cobol, clisp, d, erlang, forth, fortran, go, haskell, icon, intercal, java, rhino, javascript, lua, nemerle, nice, ocaml, pascal, perl, php, pike, prolog, python, python3, r, ruby, scala, scheme, smalltalk, tcl, unlambda, vbasic, whitespace
