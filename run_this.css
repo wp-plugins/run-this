@@ -16,3 +16,4 @@
 
 .run-this-details div { font-size:11px; background: #ddd; border: 1px solid #999; border-width: 0 1px 1px 1px; padding: 3px 6px; }
 .run-this-link { float:right; }
+.run-this-output td { font-family:monospace; }
