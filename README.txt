@@ -1,5 +1,5 @@
 === Run This! ===
-Tags: code, snippet, sample, execution, program
+Tags: code, snippet, sample, execution, programming
 Contributors: manu
 Requires at least: 2.9
 Tested up to: 2.9
