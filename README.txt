@@ -1,9 +1,9 @@
 === Run This! ===
 Tags: code, snippet, sample, execution, programming
 Contributors: manu
-Requires at least: 2.9
-Tested up to: 2.9
-Stable tag: 0.1
+Requires at least: 3.1
+Tested up to: 3.1
+Stable tag: 0.2
 
 == Description ==
 
@@ -28,7 +28,7 @@ This plugin is free software released under the GNU General Public License.
 
 == Release Notes ==
 
-* This plugin uses flXHR (http://flxhr.flensed.com/) to send the code source accross to a different domain. flXHR is included in the plugin archive
+* This plugin uses CORS (http://en.wikipedia.org/wiki/Cross-origin_resource_sharing) to send the code source accross to a different domain.
 
 * This plugin uses jQuery, which is also included in the plugin archive
 

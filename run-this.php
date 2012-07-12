@@ -16,12 +16,10 @@ function run_this_head()
 {
   $css_url = WP_PLUGIN_URL . "/run-this/run_this.css";
   $jquery_url = WP_PLUGIN_URL . "/run-this/jquery-1.3.2.js";
-  $flensed_url = WP_PLUGIN_URL . "/run-this/flensed/deploy/flXHR.js";
   $js_url = WP_PLUGIN_URL . "/run-this/run_this.js";
 
   echo "\n".'<link rel="stylesheet" href="' . $css_url . '" type="text/css" media="screen" />'."\n";
   echo "\n".'<script type="text/javascript" src="'. $jquery_url .'"></script>'."\n";
-  echo "\n".'<script type="text/javascript" src="'. $flensed_url .'"></script>'."\n";
   echo "\n".'<script type="text/javascript" src="'. $js_url .'"></script>'."\n";
 
 }
